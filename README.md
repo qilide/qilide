@@ -12,7 +12,7 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://profile-avatar.csdnimg.cn/37958c615e6348f7aee374d3fdc66c2f_weixin_53795646.jpg!1"/></a>&emsp;
+    <a href="http://xiamocoding.top/"><img src="https://img.shields.io/badge/Website-个人博客-blue" /></a>&emsp;
     <a href="https://juejin.cn/user/207133830037005"><img src="https://img.shields.io/badge/稀土掘金-c32136" /></a>&emsp;
     <a href="https://blog.csdn.net/weixin_53795646"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <!-- visitor statistics logo 访客数统计徽标 -->
@@ -36,7 +36,7 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/steven.png" />
+<img align="right" width="88" src="https://profile-avatar.csdnimg.cn/37958c615e6348f7aee374d3fdc66c2f_weixin_53795646.jpg!1" />
 
 <p>&emsp;&emsp;大家好，我是小齐同学。</p>
 <p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
