@@ -58,7 +58,7 @@
   - 工作岗位：蔚来手机业务-后端开发
   - 工作内容：参与开发蔚来手机系统测试APP
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/tuhui.png" />
+<img align="right" width="88" src="" />
 
 - [艾欧奇迹科技有限公司]() &emsp; 📌 2023-03 —— 2023-05
   
