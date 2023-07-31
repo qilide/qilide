@@ -13,7 +13,7 @@
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
     <a href="http://xiamocoding.top/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="https://juejin.cn/user/207133830037005"><img src="https://img.shields.io/badge/YouTube-稀土掘金-c32136" /></a>&emsp;
+    <a href="https://juejin.cn/user/207133830037005"><img src="https://img.shields.io/badge/稀土掘金-c32136" /></a>&emsp;
     <a href="https://blog.csdn.net/weixin_53795646"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <!-- visitor statistics logo 访客数统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=qilide&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
@@ -51,53 +51,36 @@
   
 ### 🏢 Work Experience
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
-
-- [广州图慧信息科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— Now
-  
-  - 工作岗位：Web前端开发工程师（初级）
-  - 工作内容：GIS相关
-
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
 
-- [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-12
+- [蔚来移动科技有限公司](https://www.nio.cn/) &emsp; 📌 2023-05 —— Now
   
-  - 工作岗位：Web前端开发实习生
-  - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
+  - 工作岗位：蔚来手机业务-后端开发
+  - 工作内容：参与开发蔚来手机系统测试APP
 
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
+
+- [艾欧奇迹科技有限公司]() &emsp; 📌 2023-03 —— 2023-05
+  
+  - 工作岗位：Web3业务-后端开发-GoLang
+  - 工作内容：参与开发AIO后端数据开发和个性化推荐服务
 </td>
 </tr>
 
 <tr><td>
 
-<!-- 近期博客 -->
+<!-- 优秀博客 -->
 ### 📃 Recent Blog
   
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
-* <a href='https://blog.sunguoqi.com/archives/ohmyposh' target='_blank'>Oh My Posh | Windows Terminal 美化指南</a> - 2023-07-15
-* <a href='https://blog.sunguoqi.com/archives/brain' target='_blank'>小孙同学 の 第二大脑正在施工中 。。。</a> - 2023-03-26
-* <a href='https://blog.sunguoqi.com/archives/20230225' target='_blank'>奔跑在自己的时区里，你好哇，我的22岁！</a> - 2023-02-25
-* <a href='https://blog.sunguoqi.com/archives/github_profile_0' target='_blank'>让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</a> - 2023-01-30
-* <a href='https://blog.sunguoqi.com/archives/chatgpt' target='_blank'>快速上手，教你如何将 ChatGPT 接入到微信公众号</a> - 2023-01-29
+* <a href='http://47.93.49.179/2023/03/09/%e5%85%b3%e4%ba%8ego%e8%af%ad%e8%a8%80%e7%9a%84%e5%ba%95%e5%b1%82%ef%bc%8c%e4%bd%a0%e6%83%b3%e7%9f%a5%e9%81%93%e7%9a%84%e9%83%bd%e5%9c%a8%e8%bf%99%e9%87%8c%ef%bc%81/' target='_blank'>关于Go语言的底层，你想知道的都在这里！</a>
+* <a href='http://47.93.49.179/2023/04/13/%e9%9d%a2%e8%af%95%e6%9f%90%e5%a4%a7%e5%8e%82%ef%bc%8c%e8%a2%abchannel%e7%bb%99%e5%90%8a%e6%89%93%e4%ba%86%ef%bc%8c%e8%bf%99%e6%ac%a1%e4%b8%80%e6%ac%a1%e6%80%a7%e9%80%9a%e5%85%b3channel%ef%bc%81/' target='_blank'>面试某大厂，被Channel给吊打了，这次一次性通关channel！</a>
+* <a href='hhttp://47.93.49.179/2023/01/29/%e5%85%b3%e4%ba%8e%e5%be%ae%e6%9c%8d%e5%8a%a1%e7%9a%84%e4%b8%80%e4%ba%9b%e6%80%bb%e7%bb%93%e5%92%8c%e7%bb%8f%e9%aa%8c%e4%b9%8b%e8%b0%88%ef%bc%8c%e6%9d%a5%e7%9c%8b%e7%9c%8b%e4%bd%a0%e9%83%bd%e4%ba%86/' target='_blank'>关于微服务的一些总结和经验之谈，来看看你都了解吗</a>
+* <a href='http://47.93.49.179/2023/01/10/go%e5%9f%ba%e7%a1%80%e8%af%ad%e6%b3%9550%e9%97%ae%ef%bc%8c%e6%9d%a5%e7%9c%8b%e7%9c%8b%e4%bd%a0%e7%9a%84go%e5%9f%ba%e7%a1%80%e5%90%88%e6%a0%bc%e4%ba%86%e5%90%97%ef%bc%9f-2/' target='_blank'>go基础语法50问，来看看你的go基础合格了吗？</a>
+* <a href='http://47.93.49.179/2023/01/10/%e5%85%b3%e4%ba%8ego%e4%bd%a0%e4%b8%8d%e5%be%97%e4%b8%8d%e7%9f%a5%e9%81%93%e7%9a%84%e5%b0%8f%e6%8a%80%e5%b7%a7/' target='_blank'>关于Go你不得不知道的小技巧</a>
 <!-- END_SECTION:blog -->
-
-</td></tr>
-
-<tr><td>
-
-### 🧠 Second Brain
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
-
-<!-- START_SECTION:brain -->
-* <a href='https://brain.sunguoqi.com/web/guide/history.html' target='_blank'>前端开发简史</a> - 2023-03-25
-* <a href='https://brain.sunguoqi.com/web/guide/learn-road.html' target='_blank'>前端学习路线</a> - 2023-03-26
-* <a href='https://brain.sunguoqi.com/dv/basic/data/31.html' target='_blank'>选择合适方法对数据进行处理</a> - 2023-07-27
-* <a href='https://brain.sunguoqi.com/dv/basic/data/32.html' target='_blank'>可视化数据处理的一般方法</a> - 2023-07-27
-* <a href='https://brain.sunguoqi.com/dv/basic/data/33.html' target='_blank'>如何处理多元变量</a> - 2023-07-27
-<!-- END_SECTION:brain -->
 
 </td></tr>
 
@@ -124,62 +107,19 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=qilide&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=qilide&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=qilide&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
 </picture>
 
 </td></tr>
 
 <tr><td>
-
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                274 commits         █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-🌆 Daytime                428 commits         ████████░░░░░░░░░░░░░░░░░   30.20 % 
-🌃 Evening                507 commits         █████████░░░░░░░░░░░░░░░░   35.78 % 
-🌙 Night                  208 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   207 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Tuesday                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Wednesday                188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Thursday                 155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Friday                   356 commits         ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
-Saturday                 147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Sunday                   177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 8 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   40.46 % 
-TypeScript               5 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Vue.js                   2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-HTML                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-
-🔥 Editors: 
-VS Code                  19 hrs 52 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  18 hrs 17 mins      ███████████████████████░░   92.04 % 
-Mac                      1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-```
-
 
  Last Updated on 31/07/2023 01:23:48 UTC
 <!--END_SECTION:waka-->
@@ -194,70 +134,40 @@ Mac                      1 hr 34 mins        ██░░░░░░░░░�
 
 ```mermaid
 mindmap
-  root((小孙同学))
+  root((小齐同学))
     编程
       Web开发
+      微服务开发
+      云计算与云服务
       网络爬虫
       人工智能
-    摄影
-      人文
-      建筑
-      风景
-    旅行
-      苏州
-      南京
-      滁州
-      合肥
-      寿县
-    阅读
-      人物传记
-      个人成长
-      社会文化
-      心理
-      计算机技术
+    技术栈
+      GoLang
+      Python
+      Android
+      MySQL
+      Redis
+      计算机网络
+      操作系统
+      数据结构
+    中间件
+      Swagger
+      Viper
+      JWT
+      Zap
+      Gin
+      Micro
+      Django
+      Vue
+      Docker
+    实习经历
+      蔚来
+      AIO
 ```
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
-<!--  skill badge 技能徽章 -->
-💪 正在学习
-
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
-![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
-![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
-  
-🧠 计划学习
-
-![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
-![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
-![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat)
-![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
-![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
-![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
-![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
-![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat)
-
-🧰 常用的工具
-
-![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
-![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
-![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
@@ -307,26 +217,9 @@ mindmap
 <img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 
 <!-- GitHub 数据统计 -->
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /><br><br>
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=qilide&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qilide&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /><br><br>
 
-<!-- Awesome repo 比较好的仓库-->
-<a href="https://github.com/sun0225SUN/Awesome-Love-Code">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=121212&hide_border=true" /></a>
-<a href="https://github.com/sun0225SUN/Student-Data-Vision">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Student-Data-Vision&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
-  
-<!-- Wakatime Graph-->
-<table>
-  <tr>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
-  </tr>
-  <tr>
-    <td colspan="2"><a href="https://run.sunguoqi.com"><img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/running/assets/github_2023.svg" /></a><br></td>
-  </tr>
-</table>
-</div>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
@@ -339,20 +232,10 @@ mindmap
 <!-- Joke 笑话 -->
 <div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
 
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
-
-<!-- metrics 基础资料 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />&emsp;
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/base.svg" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
-
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
+    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=qilide&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
   </tr>
 </table>
 
