@@ -12,7 +12,7 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="http://xiamocoding.top/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href="https://profile-avatar.csdnimg.cn/37958c615e6348f7aee374d3fdc66c2f_weixin_53795646.jpg!1"/></a>&emsp;
     <a href="https://juejin.cn/user/207133830037005"><img src="https://img.shields.io/badge/稀土掘金-c32136" /></a>&emsp;
     <a href="https://blog.csdn.net/weixin_53795646"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <!-- visitor statistics logo 访客数统计徽标 -->
@@ -57,8 +57,6 @@
   
   - 工作岗位：蔚来手机业务-后端开发
   - 工作内容：参与开发蔚来手机系统测试APP
-
-<img align="right" width="88" src="" />
 
 - [艾欧奇迹科技有限公司]() &emsp; 📌 2023-03 —— 2023-05
   
