@@ -102,31 +102,6 @@
 
 <tr><td>
 
-<!-- wakatime 统计 -->
-### 📊 WakaTime
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=qilide&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=qilide&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=qilide&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
-
-</td></tr>
-
-<tr><td>
-
- Last Updated on 31/07/2023 01:23:48 UTC
-<!--END_SECTION:waka-->
-  
-</td></tr>
-</table>
-
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/hr.gif" />
 
@@ -206,9 +181,6 @@ mindmap
 <img width="200%" src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/hr.gif" />
 
 <div align="center" >
-
-<!-- Github-Stats-Terminal 终端风格信息 -->
-<img src="https://cdn.jsdelivr.net/gh/qilide/Github-Stats-Terminal/github_stats.svg"/><br>
   
 <!-- Quotes 名人名言 -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
