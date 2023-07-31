@@ -8,7 +8,7 @@
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+  <img src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/coding.gif" /><br>
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
@@ -21,9 +21,9 @@
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/qilide/qilide/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/qilide/qilide/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/qilide/qilide/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -36,7 +36,7 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/steven.png" />
 
 <p>&emsp;&emsp;大家好，我是小齐同学。</p>
 <p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
@@ -58,7 +58,7 @@
   - 工作岗位：蔚来手机业务-后端开发
   - 工作内容：参与开发蔚来手机系统测试APP
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/tuhui.png" />
 
 - [艾欧奇迹科技有限公司]() &emsp; 📌 2023-03 —— 2023-05
   
@@ -77,7 +77,7 @@
 <!-- START_SECTION:blog -->
 * <a href='http://47.93.49.179/2023/03/09/%e5%85%b3%e4%ba%8ego%e8%af%ad%e8%a8%80%e7%9a%84%e5%ba%95%e5%b1%82%ef%bc%8c%e4%bd%a0%e6%83%b3%e7%9f%a5%e9%81%93%e7%9a%84%e9%83%bd%e5%9c%a8%e8%bf%99%e9%87%8c%ef%bc%81/' target='_blank'>关于Go语言的底层，你想知道的都在这里！</a>
 * <a href='http://47.93.49.179/2023/04/13/%e9%9d%a2%e8%af%95%e6%9f%90%e5%a4%a7%e5%8e%82%ef%bc%8c%e8%a2%abchannel%e7%bb%99%e5%90%8a%e6%89%93%e4%ba%86%ef%bc%8c%e8%bf%99%e6%ac%a1%e4%b8%80%e6%ac%a1%e6%80%a7%e9%80%9a%e5%85%b3channel%ef%bc%81/' target='_blank'>面试某大厂，被Channel给吊打了，这次一次性通关channel！</a>
-* <a href='hhttp://47.93.49.179/2023/01/29/%e5%85%b3%e4%ba%8e%e5%be%ae%e6%9c%8d%e5%8a%a1%e7%9a%84%e4%b8%80%e4%ba%9b%e6%80%bb%e7%bb%93%e5%92%8c%e7%bb%8f%e9%aa%8c%e4%b9%8b%e8%b0%88%ef%bc%8c%e6%9d%a5%e7%9c%8b%e7%9c%8b%e4%bd%a0%e9%83%bd%e4%ba%86/' target='_blank'>关于微服务的一些总结和经验之谈，来看看你都了解吗</a>
+* <a href='http://47.93.49.179/2023/01/29/%e5%85%b3%e4%ba%8e%e5%be%ae%e6%9c%8d%e5%8a%a1%e7%9a%84%e4%b8%80%e4%ba%9b%e6%80%bb%e7%bb%93%e5%92%8c%e7%bb%8f%e9%aa%8c%e4%b9%8b%e8%b0%88%ef%bc%8c%e6%9d%a5%e7%9c%8b%e7%9c%8b%e4%bd%a0%e9%83%bd%e4%ba%86/' target='_blank'>关于微服务的一些总结和经验之谈，来看看你都了解吗</a>
 * <a href='http://47.93.49.179/2023/01/10/go%e5%9f%ba%e7%a1%80%e8%af%ad%e6%b3%9550%e9%97%ae%ef%bc%8c%e6%9d%a5%e7%9c%8b%e7%9c%8b%e4%bd%a0%e7%9a%84go%e5%9f%ba%e7%a1%80%e5%90%88%e6%a0%bc%e4%ba%86%e5%90%97%ef%bc%9f-2/' target='_blank'>go基础语法50问，来看看你的go基础合格了吗？</a>
 * <a href='http://47.93.49.179/2023/01/10/%e5%85%b3%e4%ba%8ego%e4%bd%a0%e4%b8%8d%e5%be%97%e4%b8%8d%e7%9f%a5%e9%81%93%e7%9a%84%e5%b0%8f%e6%8a%80%e5%b7%a7/' target='_blank'>关于Go你不得不知道的小技巧</a>
 <!-- END_SECTION:blog -->
@@ -88,7 +88,7 @@
 
 ### 🤾‍♂️ Funny Soul
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/artist.png" />
 
 <!-- START_SECTION:douban -->
 * <a href='https://book.douban.com/subject/35193035/' target='_blank'>最近在读认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-04-17
@@ -128,7 +128,7 @@
 </table>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/hr.gif" />
 
 <div align="center" >
 
@@ -166,7 +166,7 @@ mindmap
 ```
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
 
 <!-- programming tool icon 编程工具图标 -->
@@ -186,35 +186,35 @@ mindmap
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
 <!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/html.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/cssgif.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/vscode.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/react.webp">
+<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/vue.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/python.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/js.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/github.webp">
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
+<img src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/icon.png" /></div>
 
 <!-- profile-3d-contrib 3D贡献图-->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
+<img src="https://cdn.jsdelivr.net/gh/qilide/qilide/profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/hr.gif" />
 
 <div align="center" >
 
 <!-- Github-Stats-Terminal 终端风格信息 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Github-Stats-Terminal/github_stats.svg"/><br>
+<img src="https://cdn.jsdelivr.net/gh/qilide/Github-Stats-Terminal/github_stats.svg"/><br>
   
 <!-- Quotes 名人名言 -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
   
 <!-- GitHub 奖杯🏆 -->
-<img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
+<img  src="https://github-profile-trophy.vercel.app/?username=qilide&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 
 <!-- GitHub 数据统计 -->
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=qilide&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
@@ -222,12 +222,12 @@ mindmap
 
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/hr.gif" />
 
 <div align="center">
 
 <!-- run 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
 
 <!-- Joke 笑话 -->
 <div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
@@ -242,51 +242,51 @@ mindmap
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/hr.gif" />
 
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
 
 <!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
+<img width="36%" src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/githubgif.gif" />
 
 <!-- first form 第一个表格 -->
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/people.followers.svg" alt="people.followers" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/qilide/qilide/github-metrics/people.followers.svg" alt="people.followers" /></td>
   </tr>
 </table>
 
 <!-- second form 第二个表格 -->
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/reactions.svg" alt="reactions" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/qilide/qilide/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/qilide/qilide/github-metrics/reactions.svg" alt="reactions" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/qilide/qilide/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/qilide/qilide/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/qilide/qilide/github-metrics/wakatime.svg" alt="wakatime" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/qilide/qilide/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/qilide/qilide/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/qilide/qilide/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/qilide/qilide/github-metrics/activity.svg" alt="activity" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/qilide/qilide/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/qilide/qilide/github-metrics/stars.svg" alt="stars" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/qilide/qilide/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
 </table>
 
 <img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
+<img src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/rocket.png"/>
 </div>
