@@ -53,7 +53,12 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
 
-- [蔚来移动科技有限公司](https://www.nio.cn/) &emsp; 📌 2023-05 —— Now
+- [深信服科技股份有限公司](https://www.sangfor.com.cn/) &emsp; 📌 2024-06 —— Now
+  
+  - 工作岗位：AICP算力平台-AI大模型后端开发
+  - 工作内容：负责AI大模型推理、训练和平台建设的后端开发
+
+- [蔚来移动科技有限公司](https://www.nio.cn/) &emsp; 📌 2023-05 —— 2023.11
   
   - 工作岗位：蔚来手机业务-后端开发
   - 工作内容：参与开发蔚来手机系统测试APP
