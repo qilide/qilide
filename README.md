@@ -140,6 +140,22 @@ mindmap
       计算机网络
       操作系统
       数据结构
+    AI大模型
+      Transformer
+      Ktransformer
+      Paged Attention
+      vLLM
+      Seldon Core
+      DeepSeek
+      PT
+      SFT
+      Ray
+      quantize
+      KV Cache
+      智能负载
+      分布式推理
+      vGPU
+      DeepSpeed
     中间件
       Swagger
       Viper
