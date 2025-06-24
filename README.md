@@ -93,7 +93,7 @@
 
 <!-- START_SECTION:blog -->
 * <a href='https://blog.csdn.net/weixin_53795646/article/details/142786987' target='_blank'>AI技术总览！</a>
-* <a href='https://blog.csdn.net/weixin_53795646/article/details/143998246' target='_blank'>常见LLM大模型概览与详解！/a>
+* <a href='https://blog.csdn.net/weixin_53795646/article/details/143998246' target='_blank'>常见LLM大模型概览与详解！</a>
 * <a href='https://blog.csdn.net/weixin_53795646/article/details/143674843' target='_blank'>Seldon Core大模型部署详解！</a>
 * <a href='https://blog.csdn.net/weixin_53795646/article/details/143674918' target='_blank'>DeepSpeed模型训练加速详解！</a>
 * <a href='https://blog.csdn.net/weixin_53795646/article/details/129420359' target='_blank'>关于Go语言的底层，你想知道的都在这里！</a>
