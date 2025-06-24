@@ -53,20 +53,24 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
 
-- [深信服科技股份有限公司](https://www.sangfor.com.cn/) &emsp; 📌 2024-06 —— Now
+- [京东科技集团](https://www.jdt.com.cn/) &emsp; 📌 2025-06 —— Now
   
-  - 工作岗位：AICP算力平台-AI大模型后端开发
-  - 工作内容：负责AI大模型推理、训练和平台建设的后端开发
-  - 荣誉奖项：获得深信服股份科技有限公司**2024年度A绩效**；2024年度**公司级优秀个人**；2024年度**研发体系级优秀新人**
-  - 熟悉了解AICP平台各模块业务功能，掌握基础模块功能和**模型推理、训练、量化、加密**任务全生命周期流程
-  - 熟悉了解AI算力平台整体架构和框架选型，包括**后端框架、模型训练框架、推理服务化框架和推理后端框架**
-  - 负责**智能负载**特性开发，能动态感知并智能调度LLM推理资源，提升系统吞吐量，降低响应延时和算力资源
-  - 负责**DeepSeekQ4量化满血版**模型推理适配，主导**KTransformer推理引擎**管控面设计与实现，优化模型部署
-  - 负责**DeepSeek满血版大模型**推理适配，基于**Ray集群和高性能网络**实现多机多实例部署，提升模型并行效率
+  - 工作岗位：搜广推引擎-大模型训推工作
+  - 工作内容：负责京东金融、京东云的搜索、推荐和广告的大模型训练推理工作
+
+- [深信服科技股份有限公司](https://www.sangfor.com.cn/) &emsp; 📌 2024-06 —— 2025-06
+  
+  - 工作岗位：AICP算力平台-AI大模型后端开发。
+  - 工作内容：负责AI大模型推理、训练和平台建设的后端开发。
+  - 荣誉奖项：获得深信服股份科技有限公司**2024年度A绩效**；2024年度**公司级优秀个人**；2024年度**研发体系级优秀新人**。
+  - 熟悉了解AICP平台各模块业务功能，掌握基础模块功能和**模型推理、训练、量化、加密**任务全生命周期流程。
+  - 熟悉了解AI算力平台整体架构和框架选型，包括**后端框架、模型训练框架、推理服务化框架和推理后端框架**。
+  - 负责**智能负载**特性开发，能动态感知并智能调度LLM推理资源，提升系统吞吐量，降低响应延时和算力资源。
+  - 负责**DeepSeekQ4量化满血版**模型推理适配，主导**KTransformer推理引擎**管控面设计与实现，优化模型部署。
+  - 负责**DeepSeek满血版大模型**推理适配，基于**Ray集群和高性能网络**实现多机多实例部署，提升模型并行效率。
   - 理解大语言模型的基本原理和架构，具备使用LLM进行自然语言处理任务能力，能够应用技术解决实际问题。
   - 熟悉 **vLLM 推理框架**，掌握 **Paged Attention技术**以优化内存使用和计算效率，提升推理速度和响应能力。
   - 熟悉**自监督学习** (PT)、**监督微调** (SFT) 和**低秩适应** (LoRA) 方法，能够优化训练参数，提升训练效率和性能。
-  - 了解如何部署 **DeepSeek 蒸馏版模型和满血版模型**，了解推理最佳实践配置，优化推理过程中的资源配置。
 
 - [蔚来移动科技有限公司](https://www.nio.cn/) &emsp; 📌 2023-05 —— 2023.11
   
@@ -88,11 +92,14 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
-* <a href='http://47.93.49.179/2023/03/09/%e5%85%b3%e4%ba%8ego%e8%af%ad%e8%a8%80%e7%9a%84%e5%ba%95%e5%b1%82%ef%bc%8c%e4%bd%a0%e6%83%b3%e7%9f%a5%e9%81%93%e7%9a%84%e9%83%bd%e5%9c%a8%e8%bf%99%e9%87%8c%ef%bc%81/' target='_blank'>关于Go语言的底层，你想知道的都在这里！</a>
-* <a href='http://47.93.49.179/2023/04/13/%e9%9d%a2%e8%af%95%e6%9f%90%e5%a4%a7%e5%8e%82%ef%bc%8c%e8%a2%abchannel%e7%bb%99%e5%90%8a%e6%89%93%e4%ba%86%ef%bc%8c%e8%bf%99%e6%ac%a1%e4%b8%80%e6%ac%a1%e6%80%a7%e9%80%9a%e5%85%b3channel%ef%bc%81/' target='_blank'>面试某大厂，被Channel给吊打了，这次一次性通关channel！</a>
-* <a href='http://47.93.49.179/2023/01/29/%e5%85%b3%e4%ba%8e%e5%be%ae%e6%9c%8d%e5%8a%a1%e7%9a%84%e4%b8%80%e4%ba%9b%e6%80%bb%e7%bb%93%e5%92%8c%e7%bb%8f%e9%aa%8c%e4%b9%8b%e8%b0%88%ef%bc%8c%e6%9d%a5%e7%9c%8b%e7%9c%8b%e4%bd%a0%e9%83%bd%e4%ba%86/' target='_blank'>关于微服务的一些总结和经验之谈，来看看你都了解吗</a>
-* <a href='http://47.93.49.179/2023/01/10/go%e5%9f%ba%e7%a1%80%e8%af%ad%e6%b3%9550%e9%97%ae%ef%bc%8c%e6%9d%a5%e7%9c%8b%e7%9c%8b%e4%bd%a0%e7%9a%84go%e5%9f%ba%e7%a1%80%e5%90%88%e6%a0%bc%e4%ba%86%e5%90%97%ef%bc%9f-2/' target='_blank'>go基础语法50问，来看看你的go基础合格了吗？</a>
-* <a href='http://47.93.49.179/2023/01/10/%e5%85%b3%e4%ba%8ego%e4%bd%a0%e4%b8%8d%e5%be%97%e4%b8%8d%e7%9f%a5%e9%81%93%e7%9a%84%e5%b0%8f%e6%8a%80%e5%b7%a7/' target='_blank'>关于Go你不得不知道的小技巧</a>
+* <a href='https://blog.csdn.net/weixin_53795646/article/details/142786987' target='_blank'>AI技术总览！</a>
+* <a href='https://blog.csdn.net/weixin_53795646/article/details/143998246' target='_blank'>常见LLM大模型概览与详解！/a>
+* <a href='https://blog.csdn.net/weixin_53795646/article/details/143674843' target='_blank'>Seldon Core大模型部署详解！</a>
+* <a href='https://blog.csdn.net/weixin_53795646/article/details/143674918' target='_blank'>DeepSpeed模型训练加速详解！</a>
+* <a href='https://blog.csdn.net/weixin_53795646/article/details/129420359' target='_blank'>关于Go语言的底层，你想知道的都在这里！</a>
+* <a href='https://blog.csdn.net/weixin_53795646/article/details/130139980' target='_blank'>面试某大厂，被Channel给吊打了，这次一次性通关channel！</a>
+* <a href='https://blog.csdn.net/weixin_53795646/article/details/128785632' target='_blank'>关于微服务的一些总结和经验之谈，来看看你都了解吗？</a>
+* <a href='https://blog.csdn.net/weixin_53795646/article/details/129360699' target='_blank'>想找工作，这一篇15w字数+的文章帮你解决！</a>
 <!-- END_SECTION:blog -->
 
 </td></tr>
@@ -104,11 +111,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/artist.png" />
 
 <!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35193035/' target='_blank'>最近在读认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2024-04-17
+* <a href='https://book.douban.com/subject/35193035/' target='_blank'>最近查理宝典</a> 🌟🌟🌟🌟🌟 力荐- 2025-04-17
 * <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2025-02-07
-* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2024-05-07
+* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-07
 * <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2025-04-07
-* <a href='http://movie.douban.com/subject/35465232/' target='_blank'>在看狂飙</a> 🌟🌟🌟🌟🌟 力荐- 2024-03-07
+* <a href='http://movie.douban.com/subject/35465232/' target='_blank'>在看狂飙</a> 🌟🌟🌟🌟🌟 力荐- 2024-05-07
 <!-- END_SECTION:douban -->
 
 </td></tr>
@@ -145,6 +152,7 @@ mindmap
       Ktransformer
       Paged Attention
       vLLM
+      sGLang
       Seldon Core
       DeepSeek
       PT
@@ -156,6 +164,10 @@ mindmap
       分布式推理
       vGPU
       DeepSpeed
+      Agent
+      MCP
+      多模态
+      搜广推
     中间件
       Swagger
       Viper
@@ -166,9 +178,11 @@ mindmap
       Django
       Vue
       Docker
-    实习经历
-      蔚来
-      AIO
+    工作经历
+      京东科技集团
+      深信服科技股份有限公司
+      蔚来移动科技有限公司
+      艾欧奇迹科技有限公司
 ```
 
 <!-- just img 图片 -->
