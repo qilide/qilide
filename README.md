@@ -1,253 +1,195 @@
 <div align="center">
+  
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div align="center">
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小齐同学祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
+    </a>
+  </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小孙同学祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
+  <!-- knock code pictures 敲代码的图片 -->
+  <img src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/coding.gif" /><br>
 
+  <!-- profile logo 个人资料徽标 -->
+  <div align="center">
+    <a href="http://xiamocoding.top/"><img src="https://img.shields.io/badge/Website-个人博客-blue" /></a>&emsp;
+    <a href="https://juejin.cn/user/207133830037005"><img src="https://img.shields.io/badge/稀土掘金-c32136" /></a>&emsp;
+    <a href="https://blog.csdn.net/weixin_53795646"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <!-- visitor statistics logo 访客数统计徽标 -->
+    <img src="https://komarev.com/ghpvc/?username=qilide&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  </div>
+
+  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/qilide/qilide/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/qilide/qilide/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/qilide/qilide/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-<div>&nbsp;</div>
-
-<div>
-  <a href="https://x.com/sun0225SUN"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-  <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-  <a href="https://blog.guoqi.dev/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-  <a href="https://mp.guoqi.dev"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-  <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-  <!-- visitor -->
-  <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-  <!-- wakatime -->
-  <a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-![](./sponsors.png)
-
-<div align="center">
-<a href="https://www.buymeacoffee.com/guoqisun" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217" />
-</a>
-
-<table style="margin-top: 20px;">
-  <tbody>
-    <tr>
-      <td align="center">
-        <img src="https://files.guoqi.dev/wxpay.png" width="250px"  alt="wxpay" style="border-radius:10px;" />
-      </td>
-      <td align="center">
-        <img src="https://files.guoqi.dev/alipay.jpg" width="250px"  alt="alipay" style="border-radius:10px;" />
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-</div>
-
 
 #  🙋 Hello
 
 <table>
-
 <tr><td>
 
+<!-- About me 关于我 -->
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+<img align="right" width="88" src="https://profile-avatar.csdnimg.cn/37958c615e6348f7aee374d3fdc66c2f_weixin_53795646.jpg!1" />
 
-<p>&emsp;&emsp;嗨，你好，我是小孙同学。热爱编程、摄影、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
+<p>&emsp;&emsp;大家好，我是小齐同学。</p>
+<p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
+<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的独立开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
-</tr></td>
+</td></tr>
+
+<tr>
+<td>
+  
+### 🏢 Work Experience
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
+
+- [京东科技集团](https://www.jdt.com.cn/) &emsp; 📌 2025-06 —— Now
+  
+  - 工作岗位：搜广推引擎-大模型训推工作
+  - 工作内容：负责京东金融、京东云的搜索、推荐和广告的大模型训练推理工作
+
+- [深信服科技股份有限公司](https://www.sangfor.com.cn/) &emsp; 📌 2024-06 —— 2025-06
+  
+  - 工作岗位：AICP算力平台-AI大模型后端开发。
+  - 工作内容：负责AI大模型推理、训练和平台建设的后端开发。
+  - 荣誉奖项：获得深信服股份科技有限公司**2024年度A绩效**；2024年度**公司级优秀个人**；2024年度**研发体系级优秀新人**。
+  - 熟悉了解AICP平台各模块业务功能，掌握基础模块功能和**模型推理、训练、量化、加密**任务全生命周期流程。
+  - 熟悉了解AI算力平台整体架构和框架选型，包括**后端框架、模型训练框架、推理服务化框架和推理后端框架**。
+  - 负责**智能负载**特性开发，能动态感知并智能调度LLM推理资源，提升系统吞吐量，降低响应延时和算力资源。
+  - 负责**DeepSeekQ4量化满血版**模型推理适配，主导**KTransformer推理引擎**管控面设计与实现，优化模型部署。
+  - 负责**DeepSeek满血版大模型**推理适配，基于**Ray集群和高性能网络**实现多机多实例部署，提升模型并行效率。
+  - 理解大语言模型的基本原理和架构，具备使用LLM进行自然语言处理任务能力，能够应用技术解决实际问题。
+  - 熟悉 **vLLM 推理框架**，掌握 **Paged Attention技术**以优化内存使用和计算效率，提升推理速度和响应能力。
+  - 熟悉**自监督学习** (PT)、**监督微调** (SFT) 和**低秩适应** (LoRA) 方法，能够优化训练参数，提升训练效率和性能。
+
+- [蔚来移动科技有限公司](https://www.nio.cn/) &emsp; 📌 2023-05 —— 2023.11
+  
+  - 工作岗位：蔚来手机业务-后端开发
+  - 工作内容：参与开发蔚来手机系统APP
+
+- [艾欧奇迹科技有限公司]() &emsp; 📌 2023-03 —— 2023-05
+  
+  - 工作岗位：Web3业务-后端开发-GoLang
+  - 工作内容：参与开发AIO后端数据开发和个性化推荐服务
+</td>
+</tr>
 
 <tr><td>
 
+<!-- 优秀博客 -->
 ### 📃 Recent Blog
-
+  
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
-<!-- feed start -->
-- Jan 01 - [2025 → 2026，给时光以生命，待岁月以温柔！](https://blog.guoqi.dev/posts/2025/)
-- Mar 18 - [昆仑巢「疯狂星期六」，没有人是一座孤岛～](https://blog.guoqi.dev/posts/kun-lun-chao/)
-- Mar 10 - [你好，北京！你好，原则科技！](https://blog.guoqi.dev/posts/yuan-ze-ke-ji/)
-- Feb 20 - [行则将至，未来可期，和 2023 好好说声再见吧！](https://blog.guoqi.dev/posts/2023/)
-- Feb 16 - [西藏之旅｜青春没有售价，火车直达拉萨！](https://blog.guoqi.dev/posts/xi-zang/)
-<!-- feed end -->
+<!-- START_SECTION:blog -->
+* <a href='https://blog.csdn.net/weixin_53795646/article/details/142786987' target='_blank'>AI技术总览！</a>
+* <a href='https://blog.csdn.net/weixin_53795646/article/details/143998246' target='_blank'>常见LLM大模型概览与详解！</a>
+* <a href='https://blog.csdn.net/weixin_53795646/article/details/143674843' target='_blank'>Seldon Core大模型部署详解！</a>
+* <a href='https://blog.csdn.net/weixin_53795646/article/details/143674918' target='_blank'>DeepSpeed模型训练加速详解！</a>
+* <a href='https://blog.csdn.net/weixin_53795646/article/details/129420359' target='_blank'>关于Go语言的底层，你想知道的都在这里！</a>
+* <a href='https://blog.csdn.net/weixin_53795646/article/details/130139980' target='_blank'>面试某大厂，被Channel给吊打了，这次一次性通关channel！</a>
+* <a href='https://blog.csdn.net/weixin_53795646/article/details/128785632' target='_blank'>关于微服务的一些总结和经验之谈，来看看你都了解吗？</a>
+* <a href='https://blog.csdn.net/weixin_53795646/article/details/129360699' target='_blank'>想找工作，这一篇15w字数+的文章帮你解决！</a>
+<!-- END_SECTION:blog -->
 
 </td></tr>
-
-<!-- <tr><td>
-
-### 📊 WakaTime
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
-
-</td></tr> -->
 
 <tr><td>
 
-### 📊 WakaTime
+### 🤾‍♂️ Funny Soul
 
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/artist.png" />
 
-```text
-🌞 Morning                450 commits         █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
-🌆 Daytime                617 commits         ███████░░░░░░░░░░░░░░░░░░   27.96 % 
-🌃 Evening                547 commits         ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
-🌙 Night                  593 commits         ███████░░░░░░░░░░░░░░░░░░   26.87 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   354 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Tuesday                  315 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Wednesday                300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Thursday                 300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Friday                   366 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Saturday                 248 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Sunday                   324 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               1 hr 56 mins        ███████████████████████░░   90.63 % 
-Bash                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-
-🔥 Editors: 
-Cursor                   2 hrs 8 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      2 hrs 8 mins        █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 13/01/2026 00:43:49 UTC
-<!--END_SECTION:waka-->
+<!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/35193035/' target='_blank'>最近查理宝典</a> 🌟🌟🌟🌟🌟 力荐- 2025-04-17
+* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2025-02-07
+* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-07
+* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2025-04-07
+* <a href='http://movie.douban.com/subject/35465232/' target='_blank'>在看狂飙</a> 🌟🌟🌟🌟🌟 力荐- 2024-05-07
+<!-- END_SECTION:douban -->
 
 </td></tr>
 
+<tr><td>
+
 </table>
 
-
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
-
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
-    <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-  </picture>
-</div>
-
-<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
-</picture>
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
-
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/base.svg" />
-
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
-      </picture>
-  </tr>
-</table>
-
-</div>
-
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/hr.gif" />
 
 <div align="center" >
 
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/mb.png" width="250" height="250" />
+```mermaid
+mindmap
+  root((小齐同学))
+    编程
+      Web开发
+      微服务开发
+      云计算与云服务
+      网络爬虫
+      人工智能
+    技术栈
+      GoLang
+      Python
+      Android
+      MySQL
+      Redis
+      计算机网络
+      操作系统
+      数据结构
+    AI大模型
+      Transformer
+      Ktransformer
+      Paged Attention
+      vLLM
+      sGLang
+      Seldon Core
+      DeepSeek
+      PT
+      SFT
+      Ray
+      quantize
+      KV Cache
+      智能负载
+      分布式推理
+      vGPU
+      DeepSpeed
+      Agent
+      MCP
+      多模态
+      搜广推
+    中间件
+      Swagger
+      Viper
+      JWT
+      Zap
+      Gin
+      Micro
+      Django
+      Vue
+      Docker
+    工作经历
+      京东科技集团
+      深信服科技股份有限公司
+      蔚来移动科技有限公司
+      艾欧奇迹科技有限公司
+```
 
-<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
+<!-- just img 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
-<!-- <div><img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div> -->
 
-<table>
-  <tr>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
-  </tr>
-</table>
-
-</div>
-
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
-<div align="center" >
-
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
-
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
-![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
-![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
-
-![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
-![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
-![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat)
-![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
-![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
-![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
-![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
-![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat)
-
-![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
-![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
-![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-
+<!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
 
 <!-- svg -->
@@ -264,61 +206,63 @@ Mac                      2 hrs 8 mins        ███████████�
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
 <!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/html.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/cssgif.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/vscode.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/react.webp">
+<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/vue.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/python.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/js.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/github.webp">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
+<!-- just img 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/icon.png" /></div>
+
 
 </div>
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<!-- ########################################## 分割 ########################################## -->
+
+<div align="center" >
+  
+<!-- Quotes 名人名言 -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
+  
+<!-- GitHub 奖杯🏆 -->
+<img  src="https://github-profile-trophy.vercel.app/?username=qilide&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
+
+<!-- GitHub 数据统计 -->
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=qilide&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qilide&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /><br><br>
+
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/hr.gif" />
 
 <div align="center">
 
-<img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
+<!-- run 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
 
-<table>
+<!-- Joke 笑话 -->
+<div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
+
+<!-- GitHub Activity Graph GitHub 活动图 -->
+<table align="center">
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/people.followers.svg" alt="people.followers" /></td>
+    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=qilide&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/reactions.svg" alt="reactions" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
-  </tr>
-</table>
-
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
-
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
 </div>
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/hr.gif" />
+
+<!-- GitHub metrics 信息指标 -->
+<div align="center">
+
+<!-- just img 图片 -->
+<img width="36%" src="https://cdn.jsdelivr.net/gh/qilide/qilide/assets/images/githubgif.gif" />
 
 </div>
